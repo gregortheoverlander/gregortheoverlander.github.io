@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## I write ideas, develop silly apps, and overall try and make the net a fun place
 
-You can use the [editor on GitHub](https://github.com/gregortheoverlander/gregortheoverlander.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Recently I was reading an article about how the net isn't fun anymore. Well... let's try and change that. Initially this was going to be the home to one of my apps (ijustcant), but I've decided to try and create and link to fun internet things. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The markdown below is Jekyll on Github. I've left it for now because I use it as a reference. Ultimately I'll move it so you it doesn't bother you!
 
 ### Markdown
 
