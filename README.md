@@ -1,3 +1,8 @@
+---
+title: The OFFICIAL Greg
+layout: post
+---
+
 ## I write ideas, develop silly apps, and overall try and make the net a fun place
 
 Recently I was reading an article about how the net isn't fun anymore. Well... let's try and change that. Initially this was going to be the home to one of my apps (ijustcant), but I've decided to try and create and link to fun internet things. 
